@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Maple Mono NF";
+  src: url("file:///usr/share/fonts/MapleMono-NF-unhinted/MapleMono-NF-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --font-primary: "Maple Mono NF";
+  --font-display: "Maple Mono NF";
+  --font-code: "Maple Mono NF";
+}
